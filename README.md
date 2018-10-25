@@ -9,3 +9,5 @@ Code to run a short toy model of Bondi-Hoyle-Lyttleton accretion used in Kuznets
 
 ### output.py
  All plotting and output functions.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1404871.svg)](https://doi.org/10.5281/zenodo.1404871)
